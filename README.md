@@ -1,4 +1,0 @@
-shiny-lana
-==========
-
-PhoneGap app
